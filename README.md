@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 
-My name is Talles, I'm 23y and I work with System Analysis</br>
-Just trying to be a Web3 Developer
+My name is Talles, I'm 24y and I work with System Development/Analysis</br>
+
 
 <div align="center">
   <a href="https://github.com/tallessouza">
